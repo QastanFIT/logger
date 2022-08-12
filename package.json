@@ -1,6 +1,6 @@
 {
   "name": "@qastan/logger",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Logging actions to a JSON file",
   "author": "QastanFIT",
   "license": "MIT",
